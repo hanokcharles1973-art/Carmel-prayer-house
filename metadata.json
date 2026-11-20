@@ -1,0 +1,7 @@
+{
+  "name": "Carmel House of Prayer Belagavi",
+  "description": "Official website for Carmel House of Prayer, Belagavi, Karnataka, India. A place of worship, prayer, and fellowship.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
